@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:server}/src/database/connection.ts",
+            "driver": "SQLite",
+            "name": "teste",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "cSpell.words": [
+        "whatsapp"
+    ]
+}
