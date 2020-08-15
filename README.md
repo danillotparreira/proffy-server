@@ -10,3 +10,10 @@
 - Rota para criar uma aula;
 - Rota para listar aulas;
 - Filtrar por matéria, dia da semana e horário;
+
+# Executando o projeto serv
+
+- yarn install ->
+  Para instalar todas as dependências
+- yarn knex:migrate ->
+  Para inicializar as tabelas do banco de dados
